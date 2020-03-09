@@ -1,0 +1,269 @@
+None
+(SENT (VPinf (VN (CLS Il)(V demande))(COORD (ADV toutefois)(NP (DET le)(NC renvoi)(VPinf (VN (VPR devant))(NP (DET le)(NC tribunal)(AP (ADJ correctionnel)))(PP (P de)(NP (DET la)(NC majorité)(NP (P de)(DET la)(NC cinquantaine))))(PP (P de)(NP (NC personnes)))))(VPP mises))(PP (P en)(NP (NC examen))))(PONCT .))
+None
+(SENT (DET Le)(NC Procès)(PP (P en)(AP (ADJ première)))(NC instance))
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+(SENT (DET Les)(NC ascenseurs)(NP (DET des)(NC HLM)(NP (DET de)))(NPP Paris))
+None
+None
+None
+None
+None
+None
+None
+None
+None
+(SENT (NC Collusions)(AP (ADJ maçonniques)))
+None
+(SENT (NC Références))
+(SENT (CC -)(NP (NC HLM)(DET de)(NPP Paris)(COORD (PONCT :)(DET les)))(NP (PP (ADJ seuls))(NC patrons)(PP (P+D du)(NP (NC bâtiment)(PP (P à)(NP (DET la)(NC barre)(NP (PONCT -)(NPP Libération)(PONCT -))))(NC 23/12/2006)))))
+None
+None
+None
+None
+(SENT (NP (NPP Paris))(PONCT .))
+(SENT (NP (NC Histoire))(PP (P de)(NP (NPP Paris))))
+None
+None
+None
+None
+None
+(SENT (NP (DET La)(NC rénovation)(NP (DET des)(PP (NP (NC lycées))(P d'))))(PP (NPP Île-de-France)))
+None
+(SENT (PP (P Selon)(NP (DET l')(NC accusation)(PONCT ,))(NP (DET les)(NC entreprises)(Srel (PP (PROREL qui))(VN (CLR se)(V voyaient))(VPinf (VN (VINF attribuer))(NP (DET des)(NC marchés)(NP (DET de)(NC construction)(NP (DET des)(PP (NP (NC lycées))(P d')))(NPP Île-de-France)))(VPinf (VN (V devaient))(VPinf (VN (VINF reverser))(NP (DET 2)(NC %)(NP (P de)(DET leurs)(NC montants)))(PP (P+D aux)(NP (NC partis))))(COORD (PONCT :)(NPP RPR)(PONCT ,)))(COORD (NPP PS)(PONCT ,)(NC Parti)))(NP (ADJ républicain)))))(PONCT .))
+None
+None
+None
+(SENT (NC Protagonistes))
+None
+None
+None
+(SENT (DET Le)(NC dossier)(PP (P d')(NP (NC instruction)(COORD (VN (V comporte))(NP (DET ses)(AP (ADJ célèbres)))(NP (PONCT ")(NC confessions)(PONCT ")))(AP (ADJ posthumes))))(PONCT ,)(VPpart (VPP publiées)(PP (P en)(NP (NC 2000)))(NP (PONCT -LRB-)(NC Cassette)(NPP Méry)(PONCT -RRB-)))(PONCT .))
+(SENT (VPinf (VN (CLS Il)(CLO y)(V racontait))(ADV notamment)(VPinf (VN (VINF avoir)(VPP remis))(ADV peronnellement)(PP (P+D des)(NP (NC fonds)(PP (P en)(PP (NP (NC espèces)(PP (P en)(PP (NP (NC 1986))(P à)))(NPP Jacques)(NPP Chirac))(P en_présence_de)))(NPP Michel)(NPP Roussin)))))(PONCT .))
+None
+None
+None
+None
+None
+None
+None
+(SENT (NP (NPP Jacques)(NP (NPP Chirac))(NP (Sint (VN (V affirme))(ADV que)(NP (DET cette)(NC somme)(PONCT ,))(Srel (NP (PROREL qui))(VN (ADV n')(V apparaît))(ADV pas)(PP (P dans)(NP (DET sa)(NC déclaration)(PP (P de)(Sint (NP (NC patrimoine))(PONCT ,)(VN (V provient)(NP (DET des)(NC fonds)(AP (ADJ spéciaux)))(VPP conservés))(Ssub (CS lorsqu')(VN (CLS il)(V était)))))(AP (ADJ Premier))))))(NC ministre)))(PONCT .))
+None
+(SENT (PP (P Selon)(NP (DET le)(NC procureur)(NPP Jean-Pierre)(NPP Dintilhac)(PONCT ,)(Srel (NP (PRO rien)(ADV ne))(VN (CLR s')(V opposait))(PP (P à)(NP (PRO une))))))(NC audition)(PP (P de)(VPpart (NP (NPP Jacques)(NPP Chirac)(PP (P comme)(NP (NC témoin))))(VPP assisté)(PP (P dans)))(COORD (DET cette)(NC affaire)(PONCT .))))
+None
+None
+(SENT (NC Enquête)(COORD (CC et)(NP (NC instruction))))
+(SENT (NP (DET L')(NC affaire)(VPinf (VN (V fut)(VPP instruite))(PP (P par)(NP (DET le)(NC juge)(NPP Armand)(NPP Riberolles)))(PP (P à_partir_de)(NP (NC 1997)))))(PONCT .))
+None
+None
+None
+None
+None
+(SENT (NP (NC Procès))(PP (P en)(NP (NC correctionnelle))))
+None
+(SENT (NP (DET Le)(NC procès)(Srel (PP (P en)(AP (ADJ première)))(NP (NC instance))(VN (CLR s')(V est)(VPP terminé))(NP (DET le)(NC mercredi)(NP (ADJ 26)(NC octobre)(NC 2005)))))(PONCT .))
+None
+None
+(SENT (VPinf (P À)(VN (VINF noter))(Ssub (CS que)(NP (DET le)(NC parquet)(VPinf (VN (V avait)(VPP demandé))(NP (DET un)(NC an)(PP (P de)(NP (NC prison)))(AP (ADJ ferme)))(PP (P contre)(NP (PRO lui)))))))(PONCT .))
+(SENT (DET Cette)(NC peine)(VPinf (VN (V inclut))(NP (DET une)(NC privation)(NP (DET des)))(NP (NC drois)(PP (ADJ civiques))(PONCT ,)(AP (ADJ civils)(COORD (CC et)(PP (P de)(NP (NC famille))))(PP (P pendant)(NP (DET une)(NC durée)(NP (P de)(DET cinq)(NC ans)))))(PONCT .))))
+None
+(SENT (COORD (CC -)(NP (NPP Guy)(NP (NPP Drut)(NP (PONCT ,)(NC député)(NPP UMP)(PONCT ,))(NP (NC champion)(AP (ADJ olympique))(NP (DET du))))(NP (DET 110)(NC mètres)(NC haies)))(NP (PP (P en)(NP (NC 1976)(COORD (CC et)(NP (NC ministre)))(Srel (NP (DET des)(PP (NP (NC Sports)(NPP RPR)(PP (P de)(NP (NC 1995))))(P à)))(NP (NC 1997))(PONCT ,)(VN (V a))(PP (NP (NC été)(VPpart (VPP condamné)(NP (PP (P à)(NP (NC 15)))(NC mois)(PP (P de)(NP (NC prison)))))(PP (P avec)(NP (NC sursis)(COORD (CC et)(DET 50.000))(NC euros))))(P d')))))(NC amende)(PP (P pour)(NP (DET un)(NC emploi)(AP (ADJ fictif))))))(PONCT .))
+None
+None
+None
+None
+None
+(SENT (COORD (CC -)(NP (NPP Gérard)(Srel (NP (NPP Peybernès))(PONCT ,)(PP (NP (PREF ex-)(NC président))(P de)(NP (DET l')(PP (NP (NC association))(P de))(NC financement)(PP (P+D du)(NP (NPP PS)))))(PONCT ,)(VN (V a))(PP (NP (NC été)(VPpart (VPP condamné)(NP (PP (P à)(NP (NC 15)))(NC mois)(PP (P de)(NP (NC prison)))))(PP (P avec)(NP (NC sursis)(COORD (CC et)(DET 8.000))(NC euros))))(P d'))))(NP (NC amende)))(PONCT .))
+None
+None
+(SENT (NP (NC Procès))(PP (P en)(NP (NC appel))))
+(SENT (NP (DET Onze)(NC personnes)(VPinf (VN (V comparaissent))(NP (P dans)(DET un)(NC procès))(PP (P en)(NP (NC appel)))(PP (P+D à_partir_du)(NP (ADJ 17)(NC octobre)(NC 2006)))))(PONCT .))
+None
+None
+None
+None
+(SENT (NC Références))
+(SENT (PONCT -)(VPpart (VPP revue)(PP (P de)(NP (NC presse)(PP (NP (P sur)(DET le)(NC site))(P de))(NPP Denis)(NPP Touret)))(PONCT .)))
+(SENT (ADV -)(NC article)(PP (P de)(NP (DET l')(NPP Express))))
+(SENT (VN (VINF Voir))(AdP (ADV aussi)))
+None
+None
+None
+None
+None
+(SENT (NP (NC Financement)(AP (ADJ illégal))(NP (DET du)))(PP (NPP RPR)))
+None
+None
+(SENT (NP (DET Plusieurs)(NC clubs)(VPinf (VN (V sont)(VPP accusés))(VPinf (P d')(VN (VINF avoir)(VPP influencé))(NP (DET la)(NC désignation)(NP (DET des)))(NP (NC arbitres)))(COORD (P pour)(DET leurs)(NC matches))))(PONCT .))
+None
+None
+None
+None
+(SENT (PP (P En)(NP (NC septembre)(COORD (NC 2005)(COORD (PONCT ,)(DET le))(NC parquet))(Srel (PP (P de)(NP (NPP Turin)))(VN (V avait))(PP (P dans)(NP (DET un)(ADJ premier)(NC temps)(VPpart (VPP classé)(NP (DET l')(NC affaire)(PONCT ,)))(Srel (NP (DET les)(NC écoutes)(AP (ADJ téléphoniques)))(VN (ADV ne)(VPR permettant))(ADV pas)(VPinf (P d')(VN (VINF établir))(PP (P de)(NP (NC corruption)(COORD (CC ou)(NP (DET d')(NC achat)(NP (DET de))))(NC match))))))))))(PONCT .))
+None
+None
+None
+None
+None
+None
+(SENT (VPpart (VPP Mis)(PP (P en)(NP (NC examen)(COORD (CC et)(VPpart (VPP accusé)(NP (DET d'))))(Srel (NP (NC association)(PP (P de)(NP (NC malfaiteurs)(VPpart (VPP destinée)(PP (P à)(NP (DET la)(NC fraude)(AP (ADJ sportive)))))(PP (P par)(NP (DET le)(NC parquet)(PP (P de)(NP (NPP Naples)))(PONCT ,)(VPpart (VPP chargé)(NP (P de)(DET l')(NC enquête)))(PONCT ,)))))(NPP Luciano)(NPP Moggi))(VN (V a)(VPP été))(COORD (VPP suspendu))(PP (P de)(NP (DET toute)(NC fonction)(AP (ADJ sportive))))(PP (P pour)(NP (DET une)(NC durée)(NP (P de)(DET cinq)(NC ans))))))))(PONCT .))
+(SENT (NP (DET Le)(ADJ 14)(Srel (NP (NC juillet))(NP (NC 2006)(COORD (PONCT ,)(DET le))(NC tribunal))(VN (V rend))(NP (DET sa)))(COORD (NC décision)))(PONCT .))
+None
+(SENT (VPinf (VN (CLS Elle)(V est)(VPP rétrogradée))(NP (PP (P en)(NP (NC série)))(NC B)(PP (NP (PONCT -LRB-)(ADJ 2e)(NC division)(PONCT -RRB-))(P avec)))(NP (DET 30)(PP (NC points)(PP (P de)(NP (NC pénalité)))(Srel (NP (PROREL où))(VN (CLS elle)(V retrouvera))(COORD (DET la)(COORD (NPP Fiorentina))(COORD (CC et)(NP (DET la)(NP (NPP Lazio)(NPP Rome)(VPpart (VPP reléguées)(PP (P avec)(ADV respectivement))))))(NC 12))(PONCT ,)(COORD (CC et)(AP (ADJ 7)))))(NC points)(PP (P de)(NP (NC pénalité)))))(PONCT .))
+None
+None
+(SENT (VN (CLS Ils)(V mettent))(NP (ADV en_avant)(DET le)(NC manque))(PP (P de)(Sint (NP (NC témoignages))(VN (CLO les)(VPR concernant))(PONCT .))))
+(SENT (NP (DET Le)(NP (DET 25)(NC juillet)(PONCT ,)(Srel (PP (P contrairement_à)(NP (PRO ce)))(NP (PROREL que))(VN (V demandait))(NP (DET le)(NC procureur)(NPP Stefano)(NPP Palazzi)))(PP (PROREL qui))))(VPinf (VN (V souhaitait))(PP (NP (DET une)(NC aggravation)(PP (P+D des)(NP (NC peines)(COORD (PONCT ,)(DET la))(NC cour)))(AP (ADJ fédérale))(Srel (PP (P d')(PP (NP (NC appel))(P de)))(NP (DET la)(NC justice)(AP (ADJ sportive)))(VN (CLO les)(V revoit))))(P à))(NP (DET la)(NC baisse)(PONCT .))))
+(SENT (DET La)(NPP Juve)(VPpart (VN (V est))(ADV finalement)(NP (DET le)(ADJ seul)(NC club)))(COORD (VPP relégué)(COORD (CC et)(Srel (NP (DET le)(NPP Milan))(NP (NPP AC)(PONCT ,)(VPpart (VPP pénalisé)(NP (P de)(DET 30)(NC points)))(PONCT ,))(VN (V passe))(PP (P de)(NP (DET la)(AP (ADJ seconde))))))(PP (P à)(NP (DET la)(ADJ quatrième)(NC place)(COORD (CC et)(VPinf (VN (V participera))(PP (P+D au)(NP (NC tour)))(NP (ADJ préliminaire))))(PP (P de)(NP (DET la)(NC Ligue)(NP (DET des)(NC Champions)(PONCT .))))))))
+None
+None
+None
+(SENT (NC Condamnations)(AP (ADJ intermédiaires)))
+(SENT (NC Notes)(COORD (CC &)(NP (NC références))))
+None
+None
+None
+None
+(SENT (VN (VINF Voir))(AdP (ADV aussi)))
+(SENT (NC Articles)(AP (ADJ connexes)))
+None
+(SENT (NC Liens)(AP (ADJ externes)))
+None
+None
+(SENT (NP (NPP Wikipédia))(PP (PONCT :)(NC ébauche)(NC droit)(PONCT .)))
+None
+None
+(SENT (NC Affaire)(AP (PREF politico-)(ADJ financière))(AP (ADJ italienne)))
+None
+None
+None
+(SENT (NP (NPP Marcel)(NPP Fontaine)(COORD (CC et)(NP (NPP Marcel)(NPP Carton)(VPpart (NP (PONCT ,)(DET tous)(ADJ deux)(NC diplomates)(PONCT ,))(VN (V ont)(VPP été))(COORD (VPP enlevés)(NP (DET le)(ADJ 22)(NC mars)(NC 1985))(PP (P à)(NP (NPP Beyrouth)))(PONCT ,)(NP (NPP Jean)(NP (NPP Paul)(NPP Kauffmann)(Srel (NP (PONCT ,)(NC journaliste)(PONCT ,))(NP (DET deux)(NC mois)(AdP (ADV plus_tard)(ADV alors)(PP (P à)(NP (DET son)(NC arrivée)(Srel (PP (P dans)(NP (DET la)(ADJ même)(NC ville)))(NP (PROREL où))(VN (CLS il)(V vient)))))))(VN (VINF faire))))(NP (PRO un))))(NP (NC reportage))))))(PONCT .))
+None
+(SENT (NP (ADJ Tous)(DET ces)(NC enlèvements)(VPinf (VN (V sont)(VPP revendiqués))(PP (P par)(NP (DET l')(NP (NC organisation)(AP (ADJ intégriste))(PP (ADJ libanaise))(PP (P+D du)(NP (NPP Djihad)))(Srel (NP (ADJ islamique))(NP (PROREL qui))(VN (V exige))(NP (DET la)(NC fin)(PP (P de)(NP (DET l')(NC aide)(AP (ADJ française))))(PP (P à)(NP (DET l')(NPP Irak))(ADV alors))(PP (P en)(NP (NC guerre)))(AdP (ADV contre)))))))(NP (DET l')(NPP Iran))))(PONCT .))
+None
+None
+None
+(SENT (VPpart (AdP (ADV Entre-temps)(Srel (NP (DET deux)(ADJ autres)(NC Français))(VN (V ont)(VPP été))))(VPP enlevés)(COORD (CC et)(VPpart (VPP libérés)(PP (P à)(NP (NPP Beyrouth)(PONCT :)(NPP Camille)))(NP (NPP Sontag)(COORD (CC et)(NP (NPP Marcel)))(NPP Coudari)))))(PONCT .))
+None
+(SENT (NC Rebondissement))
+None
+None
+None
+None
+None
+(SENT (P Selon)(NP (DET cette)(NC note)(PONCT ,)(VPpart (VPP publiée)(PP (P par)(NP (DET Le)(NPP Monde))))(PONCT ,)(NP (DET le)(NC circuit)(VPinf (VN (V est))(NP (DET le)(COORD (VPR suivant))(COORD (PONCT :)(DET des))(NC versements))(PP (P en)(NP (NC provenance)))(PP (P d')(NP (DET un)(NC compte)(AP (ADJ suisse))))))(PONCT ,)(Srel (PP (PROREL dont))(NP (DET l')(NC homme)(Srel (PP (P d')(NP (NC affaires)(AP (ADJ libanais))(NPP Iskandar)))(NP (NPP Safa))(VN (V est))(NP (DET le)(NC titulaire)(PONCT ,))))(VN (V étaient))(VPpart (VPP faits)(PP (P sur)(NP (DET deux)(NC comptes)(AP (ADJ français))))(PONCT .)))))
+None
+None
+None
+(SENT (NP (NPP Il))(VN (V fait))(AdP (ADV aujourd'_hui)(Srel (NP (DET l')(NC objet)(PP (P d')(NP (DET un)(NC mandat)(PP (P d')(NP (NC arrêt)))(AP (ADJ international))))(PONCT ,)(COORD (CC et)(VPpart (NP (P dans)(DET un)(NC entretien))(VPP accordé)(PP (P+D au)(NP (NPP Monde)))))(PONCT ,))(VN (CLS il)(V confirme))(NP (DET la)(NC position)(AP (PONCT ")(ADJ officielle)(PONCT ")))(Ssub (PP (P selon)(NP (PROREL laquelle)))(VN (CLS il)(ADV n')(CLO y)(V aurait))(COORD (ADV pas)(VPP eu)(NP (DET de)(NC versement)(NP (DET de))))(NP (NC rançon)))))(PONCT .))
+None
+None
+None
+(SENT (NP (PRO Celle-ci))(VPinf (VN (V a))(COORD (VPP été)(NP (DET de)(ADJ 7)(NC millions)(NP (DET de)))(PP (NC dollars))(PONCT ,)(NP (P sous)(DET la)(NC forme)))(PP (P de)(NP (NC valeurs)(AP (ADJ mobilières))(NP (PONCT -LRB-)(NC 5)(VPinf (P à)(VN (VINF prélever))(NP (P sur)(DET un)(NC compte))(PP (P de)(NP (DET la)(NP (NPP Chase)(NP (NPP Manhattan)(NPP Bank)(COORD (CC et)(NP (NC 2)(PP (P sur)(NP (DET un)(NC compte)(PP (P de)(NP (DET la)(NPP Citibank)))(PONCT -RRB-)(COORD (CC et)(VN (V a)(VPP été)(COORD (VPP versée)(PP (P à)(PP (NP (DET la)(NPP Banque)(AP (ADJ nationale)))(P d')))(NP (NPP Algérie)))))(PONCT ,)))(Srel (NP (PROREL qui))(VN (V centralisait))))))(NP (DET la)(NC rançon)(VPinf (P pour)(VN (CLO la)(VINF reverser))(ADV ensuite)(PP (P à)(NP (DET une)(NC banque)(AP (ADJ iranienne)))))))))(PP (P à)(NP (NPP Téhéran))))(PONCT .))))))
+None
+None
+None
+None
+None
+(SENT (ADV Alors)(PONCT ,)(Srel (PP (P à))(NP (PROREL qui))(VN (V profite))(NP (DET le)(NC crime)(PONCT ?))))
+None
+None
+None
+(SENT (NC Bibliographie))
+None
+None
+None
+None
+(SENT (NP (DET L')(NC affaire)(NP (DET des)))(PP (NC paillotes)))
+(SENT (NP (PP (P Après)(NP (DET une)(NC enquête)(AP (ADJ rapide))(PONCT ,)(NP (DET le)(ADJ 23)(NC avril)(NC 1999))(PONCT ,)(Srel (NP (DET certains)(NC objets)(VPinf (VN (VPR appartenant))(NP (P à)(DET des)(NC gendarmes))(PP (P d')(NP (NPP Ajaccio)))))(VN (V sont))(VPpart (VPP trouvés)(COORD (VPP ensevelis)(PP (P dans)(NP (DET le)(NC sable)(ADV non)))(NP (P loin_de)(DET l')(NC incendie)))(PP (P de)(NP (DET la)))))))(NC paillote)(PP (P Chez)(NP (NPP Francis))))(PONCT .))
+None
+None
+None
+None
+None
+None
+(SENT (NP (NC Verdict))(PP (P+D du)(NP (NC procès))))
+None
+None
+None
+None
+None
+(SENT (PONCT -)(NP (DET 15)(NC janvier)(NP (NC 2003)(PONCT :)(NC Condamnation))(VPpart (VPP confirmée)(PP (P en)(NP (NC appel))))))
+(SENT (PONCT -)(NP (NC 13)(COORD (NC octobre)(NC 2004)(PONCT :)(NC Recours))(PP (P en)(NP (NC cassation)))(VPpart (VPP rejeté))))
+(SENT (PONCT -)(NP (NC Mars)(COORD (NC 2005)(PONCT :)(NC Recours))(PP (P en)(NP (NC grâce)))(VPpart (VPP rejeté))))
+None
+None
+None
+None
+(SENT (NP (NPP Wikipédia))(PP (PONCT :)(NC ébauche)(NPP Corse-du-Sud)(PONCT .)))
+(SENT (NP (NPP Wikipédia))(PP (PONCT :)(NC ébauche)(NC droit)(PONCT .)))
+(SENT (NP (NC Affaire)(AP (PREF politico-)(ADJ financière))(AP (ADJ française)))(PONCT .))
+(SENT (NPP Ajaccio))
+None
+(SENT (NP (DET L')(NC affaire)(NP (DET des)(NC photos)(NP (DET d')))(NPP Adnan))(Srel (NP (NPP Hajj))(VN (V est))(NP (DET une)(NC controverse)(VPinf (VN (VPR ayant))(PP (P pour)(NP (NC objet)))(NP (DET certains)(NC clichés)(PONCT ")(VPpart (VPP mis)(PP (P en)(NP (NC scène))))(PONCT "))))(COORD (CC et)(PP (P+D des)(NP (NC retouches)(VPpart (VPP réalisées)(PP (P par)(NP (DET le)(NC photographe)(AP (ADJ libanais))(AP (ADJ indépendant)))(NP (NPP Adnan)))(NP (NPP Hajj)))(PONCT ,)(VPpart (NP (P sur)(DET des)(NC photos))(VPP diffusées)(PP (P par)(NP (DET l')(NC agence)(NPP Reuters)))))))(COORD (CC et)(VPpart (VPP reprises)(PP (P par)(NP (DET la)(NC presse)(AP (ADJ internationale))))(PONCT .)))))
+None
+(SENT (VPinf (VN (CLS Il)(V fait))(NP (NC partie))(NP (P de)(DET l')(NC équipe))(PP (P de)(NP (NC photographes)(VPpart (VPP engagés)(PP (P par)(NP (NPP Reuters)))(VPinf (P pour)(VN (VINF couvrir))(NP (DET le)(NC conflit)(AP (PREF israélo-)(ADJ libanais)))))(PP (P de)(NP (NC 2006))))))(PONCT .))
+None
+None
+None
+None
+None
+None
+None
+(SENT (PP (P Sur)(NP (DET la)(ADJ seconde)(Srel (NP (NC photo)(COORD (PONCT ,)(DET des))(NC missiles))(NP (ADJ censés))(VN (VINF avoir)(VPP été)(VPP lancés))(PP (P par)(NP (DET un)(NC F-16)(AP (ADJ israélien)))))(COORD (CC et)(NP (DET leurs)(NC trajectoires)(Srel (NP (P dans)(DET l')(NC air))(VN (V ont))(VPpart (VPP été)))(VPpart (VPP rajoutées)(PP (P par)(NP (NC ordinateur))))))))(PONCT .))
+(SENT (NP (NC Réaction))(PP (P de)(NP (NPP Reuters))))
+None
+None
+None
+(SENT (VN (VINF Voir))(AdP (ADV aussi)))
+(SENT (PONCT -)(NP (NPP Pallywood)))
+None
+(SENT (NC Références))
+None
+(SENT (NP (NC Page)(COORD (VPP accédé)(NP (DET le)))(NC 2006-08-07))(PONCT .))
+None
+None
+(SENT (PP (ADJ Dernier))(NC accès)(PP (P à)(NP (DET l')(NC URL)(NP (PONCT :)(NC 2006-08-07)(PONCT .)))))
+None
+(SENT (NP (ET Power)(ET Line))(PONCT .))
+(SENT (PP (ADJ Dernier))(NC accès)(PP (P à)(NP (DET l')(NC URL)(NP (PONCT :)(NC 2006-08-07)(PONCT .)))))
+None
+(SENT (NP (ET Drinking)(ET From)(ET Home))(PONCT .))
+(SENT (PP (ADJ Dernier))(NC accès)(PP (P à)(NP (DET l')(NC URL)(NP (PONCT :)(NC 2006-08-08)(PONCT .)))))
+None
+(SENT (NP (NPP Ynetnews))(PONCT .))
+(SENT (PP (ADJ Dernier))(NC accès)(PP (P à)(NP (DET l')(NC URL)(NP (PONCT :)(NC 2006-08-07)(PONCT .)))))
+None
+(SENT (PP (ADJ Dernier))(NC accès)(PP (P à)(NP (DET l')(NC URL)(NP (PONCT :)(NC 2006-08-07)(PONCT .)))))
+None
+(SENT (NP (NC Page)(COORD (VPP accédé)(NP (DET le)))(NC 2006-08-07))(PONCT .))
+None
+(SENT (NP (NC Page)(COORD (VPP accédé)(NP (DET le)))(NC 2006-08-07))(PONCT .))
+(SENT (NC Liens)(AP (ADJ externes)))
+None
+None
+None
+None
+None
+None
+None
+None
+(SENT (NC Histoire)(PP (P de)(NP (DET la)))(NC photographie))
+None
+None
+None
+(SENT (DET Le)(NC trafic)(NP (PONCT -LRB-)(NC 1948-1953)(PONCT -RRB-)))
+None
+None
+None

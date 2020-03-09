@@ -48,32 +48,39 @@ for sentence in testSet:
     st.cleanHyphen()
     truePoSlist = st.root.PoSlist()
     s = st.root.printSentence()
-    print('Affecting a PoS to every token...')
+    # print('Affecting a PoS to every token...')
     nodeList = sentence2PoS(s, pcfg.lexicon, words, total_embeddings)
     st.root.addGrammar(pcfg)
-    for i in range(len(nodeList)):
-        PoStot[truePoSlist[i]] += 1
-        if nodeList[i].symbol == truePoSlist[i]:
-            PoSgood[truePoSlist[i]] += 1
-            ngood += 1
-        ntot += 1
-    print('Executing CYK...')
+    # print('Executing CYK...')
     c = CYK(pcfg, nodeList)
-    print('Undoing the CNF...')
+    # print('Undoing the CNF...')
     if c is not None:
+        affectedPoSlist = c.PoSlist()
+        assert len(truePoSlist) == len(affectedPoSlist)
+        for i in range(len(affectedPoSlist)):
+            PoStot[truePoSlist[i]] += 1
+            if affectedPoSlist[i] == truePoSlist[i]:
+                PoSgood[truePoSlist[i]] += 1
+                ngood += 1
+            ntot += 1
         parsable += 1
         senttot += 1
         c.remove_BIN()
         c.remove_TERM()
-        print(c.sentence2bracketed())
+        # print(c.sentence2bracketed())
         textfile.write(c.sentence2bracketed())
         textfile.write('\n')
     else:
+        print(s)
         senttot += 1
         textfile.write('None\n')
-with open('PoSaccu.txt', 'w') as file:
-    PoSaccu = str({PoS : 100*PoSgood[PoS]/PoStot[PoS] for PoS in PoSgood.keys()})
-    file.write(PoSaccu)
+    with open('PoSaccu.txt', 'w') as file:
+        PoSaccu = str({PoS : 100*PoSgood[PoS]/PoStot[PoS] for PoS in PoSgood.keys()})
+        file.write(PoSaccu)
+    print("PARSABLE = "+str(parsable))
+    print("TOT = " +str(senttot))
+    print("NGOOD = "+str(ngood))
+    print("NTOT = "+str(ntot))
 
 print('Proportion of good PoS : ' + str(100*ngood/ntot) + '%')
 print('Proportion of parsable sentences : ' + str(100*parsable/senttot) + '%')

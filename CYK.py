@@ -59,7 +59,7 @@ def CYK(pcfg, nodeList):
             # we keep only the 10 best in S[i,i+k]
             if k < n:
                 sorted_S = sorted([(N, N.computeProba(pcfg)) for N in S[(i, i+k)]], key=itemgetter(1))
-                S[(i,i+k)] = [sorted_S[-i][0] for i in range(1,min(10, len(sorted_S)+1))]
+                S[(i,i+k)] = [sorted_S[-i][0] for i in range(1,min(40, len(sorted_S)+1))]
             
 
 

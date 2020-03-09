@@ -75,6 +75,8 @@ def most_probable_PoS(tokens, lexicon):
                 possible_PoS[possible] = (n/(n+1))*possible_PoS[possible]
             possible_PoS[PoS] = possible_PoS.get(PoS, 0.) + 1/(n+1)
             n += 1
+    if not possible_PoS:
+        return None
     return max(possible_PoS.items(), key=itemgetter(1))[0]
 
 def closest_PoS(word, lexicon, words, total_embeddings):
@@ -95,7 +97,9 @@ def closest_PoS(word, lexicon, words, total_embeddings):
     labeled2wordid = {i:word_id[token] for (i, token) in enumerate(tokens)}
     closest_tokens = l2_nearest(word, word_id, id_word, total_embeddings, labeled_embeddings, labeled2wordid)
     if closest_tokens is not None:
-        return most_probable_PoS(closest_tokens, lexicon)
+        mpPoS = most_probable_PoS(closest_tokens, lexicon)
+        if mpPoS is not None:
+            return mpPoS
     return None
 
 def OOVModule(word, lexicon, words, total_embeddings):
